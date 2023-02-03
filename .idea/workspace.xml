@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="978e4ff5-7764-4148-bc77-90483247b84e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2L8I5SEZ69f5k3HO9gtkNh0y7PZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="978e4ff5-7764-4148-bc77-90483247b84e" name="Default Changelist" comment="" />
+      <created>1675246101473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675246101473</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1440" y="-109" key="com.intellij.ide.util.TipDialog" timestamp="1675406924299">
+      <screen x="1440" y="-109" width="1920" height="1057" />
+    </state>
+    <state x="2333" y="349" key="com.intellij.ide.util.TipDialog/0.23.1440.797/1440.-109.1920.1057@1440.-109.1920.1057" timestamp="1675390403721" />
+    <state x="1440" y="-109" key="com.intellij.ide.util.TipDialog/0.23.1440.798/1440.-109.1920.1057@1440.-109.1920.1057" timestamp="1675406924299" />
+    <state x="2305" y="272" key="search.everywhere.popup" timestamp="1675247633143">
+      <screen x="1440" y="-109" width="1920" height="1057" />
+    </state>
+    <state x="2305" y="272" key="search.everywhere.popup/0.23.1440.797/1440.-109.1920.1057@1440.-109.1920.1057" timestamp="1675247633143" />
+  </component>
+</project>
