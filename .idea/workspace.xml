@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="978e4ff5-7764-4148-bc77-90483247b84e" name="Default Changelist" comment="" />
+    <list default="true" id="978e4ff5-7764-4148-bc77-90483247b84e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -45,10 +48,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1440" y="-109" key="com.intellij.ide.util.TipDialog" timestamp="1675406924299">
+    <state x="2333" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1675737253168">
       <screen x="1440" y="-109" width="1920" height="1057" />
     </state>
-    <state x="2333" y="349" key="com.intellij.ide.util.TipDialog/0.23.1440.797/1440.-109.1920.1057@1440.-109.1920.1057" timestamp="1675390403721" />
+    <state x="2333" y="349" key="com.intellij.ide.util.TipDialog/0.23.1440.797/1440.-109.1920.1057@1440.-109.1920.1057" timestamp="1675737253168" />
     <state x="1440" y="-109" key="com.intellij.ide.util.TipDialog/0.23.1440.798/1440.-109.1920.1057@1440.-109.1920.1057" timestamp="1675406924299" />
     <state x="2305" y="272" key="search.everywhere.popup" timestamp="1675247633143">
       <screen x="1440" y="-109" width="1920" height="1057" />
